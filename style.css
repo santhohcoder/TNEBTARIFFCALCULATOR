@@ -1,0 +1,29 @@
+/* .form-controll{
+width:10% !important;
+} */
+.main{
+    width: auto;
+}
+.heading{
+    color: brown;
+}
+body{
+    font-weight: 600;
+}
+.complete{
+    background-color: aqua;
+   
+    
+}
+.req{
+    color: red;
+}
+.terms{
+    font-size: small;
+}
+.result{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: larger;
+    font-weight: 900;
+}
